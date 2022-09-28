@@ -8,7 +8,8 @@
 
 [Napkatti fork](https://github.com/napkatti/genshin-impact-helper/)
 
-## Usage
+
+## Usage policy
 
 1. Fork this repository to your own account.  
    ![](https://imgur.com/VUH3ZwB.png)
